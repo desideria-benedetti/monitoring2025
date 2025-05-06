@@ -1,4 +1,4 @@
-# monitoring2025 🌴
+# monitoring2025 🌲
 Repo for monitoring lecture
 
 ## Prof 👨‍🏫
